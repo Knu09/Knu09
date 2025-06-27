@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2ea79bb9-85cd-4fd3-a569-d5e382720278)<h1 align="center">Hi, I'm Christian L. De la Torre</h1>
+<h1 align="center">Hi, I'm Christian L. De la Torre</h1>
 <h3 align="center">Web and Mobile Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knu09&label=Profile%20views&color=0e75b6&style=flat" alt="knu09" /> </p>
