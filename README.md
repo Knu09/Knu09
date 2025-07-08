@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Christian L. De la Torre</h1>
-<h3 align="center">Web and Mobile Developer.</h3>
+<h1>👋 Hey there, I'm Chris!</h1>
+<h3>A Web, Mobile, Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knu09&label=Profile%20views&color=0e75b6&style=flat" alt="knu09" /> </p>
 
